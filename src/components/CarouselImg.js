@@ -24,8 +24,7 @@ function CarouselImg({ scrollToProductCards }) {
                         <div className='carousel-text'>
                             <div>Elevating</div>
                             <div>Acoustic</div>
-                            <div>Solutions For</div>
-                            <div>All</div>
+                            <div>Solutions For All</div>
                         </div>
                         <p>Premier acoustic solutions tailored for you.</p>
                         <div className='button-group'>

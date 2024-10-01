@@ -176,7 +176,7 @@ function AbsoftTile() {
             </div>
 
             <div className="heading-container">
-                <h2 className="heading-with-lines">Advantages of Absoft Acoustic Ceiling Tile</h2>
+                <h2 className="heading-with-lines">Advantages</h2>
             </div>
             <div className='bullet'>
                 <ul>

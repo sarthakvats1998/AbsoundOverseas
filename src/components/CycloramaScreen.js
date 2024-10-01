@@ -33,8 +33,9 @@ function CycloramaScreen() {
         <br/>
 
         <div className="carousel-container">
-                <img src={cycloramaScreen} style={{width: 600, height: 400, marginLeft: 125}} alt="Slide 1" />
+            <img src={cycloramaScreen} className="img-fluid" alt="Slide 1" style={{ marginLeft: 'auto', marginRight: 'auto', display: 'block' }} />
         </div>
+
         <br/>
         <div className='container'>
             <div className="heading-container">
@@ -54,10 +55,10 @@ function CycloramaScreen() {
                 <h2 className="heading-with-lines">Specifications</h2>
             </div>
             <div>
-            <Row style={{marginLeft:'105px'}}>
+            <Row>
                 <br/>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Size</div>
@@ -77,7 +78,7 @@ function CycloramaScreen() {
                         </Card>
                     </Col>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <br/>
                                 <br/>

@@ -7,8 +7,8 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import '../styles/SlatedPanel.css';
 
-import curtain1 from '../assets/stageSystems/curtain1.jpeg';
 import audi1 from '../assets/stageSystems/audi2.jpeg';
+import woodenFlooring from '../assets/stageSystems/sideWings2.jpeg';
 
 function WoodenFloor() {
 
@@ -33,8 +33,9 @@ function WoodenFloor() {
         <br/>
 
         <div className="carousel-container">
-                <img src={curtain1} style={{width: 600, height: 400, marginLeft: 125}} alt="Slide 1" />
+            <img src={woodenFlooring} className="img-fluid" alt="Slide 1" style={{ marginLeft: 'auto', marginRight: 'auto', display: 'block' }} />
         </div>
+
         <br/>
         <div className='container'>
             <div className="heading-container">
@@ -55,10 +56,10 @@ function WoodenFloor() {
                 <h2 className="heading-with-lines">Specifications</h2>
             </div>
             <div>
-            <Row style={{marginLeft:'105px'}}>
+            <Row>
                 <br/>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Thickness</div>
@@ -78,7 +79,7 @@ function WoodenFloor() {
                         </Card>
                     </Col>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <br/>
                                 <br/>

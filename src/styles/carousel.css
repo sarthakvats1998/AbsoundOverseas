@@ -70,7 +70,7 @@
 
 @media (min-width: 768px) {
     .custom-carousel .carousel-item {
-        height: 80vh; /* Adjust height for medium screens */
+        height: 100vh; /* Adjust height for medium screens */
     }
 }
 

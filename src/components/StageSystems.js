@@ -17,7 +17,7 @@ import cycloramaScreen from '../assets/stageSystems/cycloramaScreen.jpeg';
 import sideWings from '../assets/stageSystems/sideWings.jpeg';
 import proscenium from '../assets/stageSystems/proscenium.jpeg';
 import sideLadder from '../assets/stageSystems/sideLadder.jpg';
-import woodenFlooring from '../assets/stageSystems/woodenFlooring.png';
+import woodenFlooring from '../assets/stageSystems/sideWings2.jpeg';
 import audi1 from '../assets/stageSystems/audi2.jpeg';
 import lightBar from '../assets/stageSystems/lightBar.jpg';
 

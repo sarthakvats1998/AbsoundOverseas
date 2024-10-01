@@ -33,8 +33,9 @@ function Proscenium() {
         <br/>
 
         <div className="carousel-container">
-                <img src={proscenium} style={{width: 550, height: 500, marginLeft: 125}} alt="Slide 1" />
+            <img src={proscenium} className="img-fluid" alt="Slide 1" style={{ marginLeft: 'auto', marginRight: 'auto', display: 'block' }} />
         </div>
+
         <br/>
         <div className='container'>
             <div className="heading-container">

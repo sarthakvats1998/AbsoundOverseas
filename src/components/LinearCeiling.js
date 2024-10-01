@@ -50,9 +50,9 @@ function LinearCeiling() {
                 <h2 className="heading-with-lines">Specifications</h2>
             </div>
             <div>
-                <Row style={{marginLeft:'105px'}}>
+                <Row>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <br/>
                                 <Card.Text>
@@ -76,7 +76,7 @@ function LinearCeiling() {
                         </Card>
                     </Col>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <br/>
                                 <Card.Text>

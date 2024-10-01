@@ -51,9 +51,9 @@ function MetalBaffleCeiling() {
                 <h2 className="heading-with-lines">Specifications</h2>
             </div>
             <div>
-                <Row style={{marginLeft:'105px'}}>
+                <Row>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Size</div>
@@ -76,7 +76,7 @@ function MetalBaffleCeiling() {
                         </Card>
                     </Col>
                     <Col>
-                        <Card className="custom-card" style={{width:'400px', textAlign:'center'}}>
+                        <Card className="custom-card" style={{width:'auto', textAlign:'center'}}>
                             <Card.Body>
                                 <br/>
                                 <br/>

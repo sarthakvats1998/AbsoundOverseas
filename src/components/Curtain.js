@@ -9,6 +9,7 @@ import '../styles/SlatedPanel.css';
 
 import curtain1 from '../assets/stageSystems/curtain1.jpeg';
 import audi1 from '../assets/stageSystems/stageCurtainsAudi.jpeg';
+import curtain2 from '../assets/stageSystems/curtain2.jpg';
 
 function Curtain() {
 
@@ -31,6 +32,11 @@ function Curtain() {
             </Carousel.Item>
         </Carousel>
         <br/>
+        
+        <div className="carousel-container">
+            <img src={curtain2} className="img-fluid" alt="Slide 1" style={{ marginLeft: 'auto', marginRight: 'auto', display: 'block' }} />
+        </div>
+
         
         <div className='container'>
             <div className="heading-container">
@@ -115,10 +121,11 @@ function Curtain() {
                 </ul>
             </div>
             <br/><br/>
-            <div className="carousel-container">
-                <img src={curtain1} style={{width: 600, height: 400, marginLeft: -50}} alt="Slide 1" />
-            </div>
         </div>
+        <div className="carousel-container">
+            <img src={curtain1} className="img-fluid" alt="Slide 1" style={{ marginLeft: 'auto', marginRight: 'auto', display: 'block' }} />
+        </div>
+
     </div>
   );
 }
