@@ -1,0 +1,32 @@
+.card-style {
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    height: 500px;
+  }
+  
+  .card-style:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+  }
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  

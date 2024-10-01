@@ -1,0 +1,89 @@
+.custom-carousel .carousel-item {
+    position: relative; /* Ensure the pseudo-element overlay is positioned correctly */
+    height: 50vh; /* Default height as 50% of the viewport height */
+}
+
+.custom-carousel .carousel-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Black tint with 50% opacity */
+    z-index: 1; /* Ensure the overlay is above the image but below the text */
+}
+
+.custom-carousel .carousel-item img {
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the entire area */
+}
+
+.custom-carousel .carousel-caption {
+    z-index: 2; /* Ensure the text is above the overlay */
+}
+
+.custom-carousel .carousel-caption h3,
+.custom-carousel .carousel-caption p {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow for better readability */
+}
+
+.custom-carousel .carousel-caption {
+    z-index: 2; /* Ensure the text is above the overlay */
+    text-align: left; /* Align text to the left */
+    left: 15%; /* Position the text 10% from the left side */
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+.carousel-text {
+    font-size: 65px;
+    font-weight: 800;
+}
+.button-group {
+    gap: 50px;
+    margin-top: 20px;
+}
+.carousel-button {
+    background-color: #A7CE3A;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border: none;
+}
+.carousel-button:hover {
+    background-color: #8AB631;
+}
+.carousel-button:active {
+    background-color: #A7CE3A !important; /* Change this to your desired color */
+    outline: none;
+    box-shadow: none;
+}
+
+/* Medium screens (tablets, 768px and up) */
+@media (max-width: 767px) {
+    .custom-carousel .carousel-item {
+        height: 100vh; /* Adjust height for medium screens */
+    }
+}
+
+@media (min-width: 768px) {
+    .custom-carousel .carousel-item {
+        height: 80vh; /* Adjust height for medium screens */
+    }
+}
+
+/* Large screens (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .custom-carousel .carousel-item {
+        height: 70vh; /* Adjust height for large screens */
+    }
+}
+
+/* Extra large screens (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .custom-carousel .carousel-item {
+        height: 80vh; /* Adjust height for extra large screens */
+    }
+}

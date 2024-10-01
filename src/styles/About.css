@@ -1,0 +1,50 @@
+.split-background {
+  height: auto; /* Allow height to adjust based on content */
+  min-height: 100vh; /* Ensure it covers at least the viewport height */
+  background: linear-gradient(to bottom, #7279CD 42%, white 35%);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px; /* Add padding to avoid content touching the edges */
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.imgage-container img {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
+}
+
+.desc {
+  display: flex;
+  flex-direction: column; /* Stack text vertically on smaller screens */
+  align-items: center; /* Center text on smaller screens */
+  text-align: center; /* Center-align text */
+  padding: 0 20px; /* Add padding for better spacing on small screens */
+}
+
+.content-text {
+  color: black;
+  font-size: 18px;
+  line-height: 1.6; /* Improve readability with line height */
+}
+
+@media (max-width: 768px) {
+  .content-text {
+      font-size: 16px; /* Adjust font size for smaller screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .split-background {
+      padding: 10px; /* Reduce padding on very small screens */
+  }
+
+  .content-text {
+      font-size: 14px; /* Further reduce font size for small devices */
+  }
+}

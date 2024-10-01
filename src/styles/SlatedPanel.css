@@ -1,0 +1,160 @@
+.carousel-container {
+  margin: 0 auto;
+  padding: 50px;
+  width: 50%; /* Keep this the same for larger screens */
+  position: relative;
+}
+
+.slick-slide img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.slick-center img {
+  transform: scale(1);
+  opacity: 1;
+}
+
+.slick-slide:not(.slick-center) img {
+  transform: scale(0.8);
+  opacity: 0.5;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #000;
+}
+
+.slick-prev {
+  z-index: 1;
+}
+
+.slick-next {
+  z-index: 1;
+}
+
+.heading-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.heading-with-lines {
+  display: inline-block;
+  position: relative;
+  font-size: 24px;
+  padding: 0 20px;
+}
+
+.heading-with-lines::before,
+.heading-with-lines::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 100px; /* Adjust the length of the lines */
+  height: 1px; /* Adjust the thickness of the lines */
+  background-color: #d8d8d8; /* Change to desired color */
+}
+
+.heading-with-lines::before {
+  left: -120px; /* Adjust the spacing from the heading */
+}
+
+.heading-with-lines::after {
+  right: -120px; /* Adjust the spacing from the heading */
+}
+
+li::marker {
+  font-size: 0.5rem;
+}
+
+.custom-card {
+  width: 100%;
+  height: 300px;
+  border: none;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added shadow */
+  border-radius: 0; /* No border radius */
+}
+
+.custom-card .spec-title {
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.custom-card .spec-content {
+  font-size: 14px;
+  color: #666;
+}
+
+.patterns-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.pattern {
+  flex: 1 0 20%; /* 5 items per row */
+  margin: 10px;
+  text-align: center;
+}
+
+.pattern img {
+  width: 80%;
+  height: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 0; /* No border radius */
+}
+
+.pattern p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  text-decoration: none;
+}
+
+.carousel-image {
+  margin-left: -200px; /* Adjust this value to move the image left */
+}
+
+/* Optional: Make adjustments for center mode */
+.slick-center .carousel-image {
+  margin-left: -200px; /* Adjust this for the centered image */
+}
+
+/* Media Queries for Smaller Screens */
+@media (max-width: 576px) {
+  .carousel-container {
+    width: 100%; /* Use full width on smaller screens */
+    padding: 20px;
+  }
+  .carousel-image {
+    margin-left: 0px; /* Adjust this value to move the image left */
+  }
+  .slick-center .carousel-image {
+    margin-left: 0px; /* Adjust this for the centered image */
+  }
+
+  /* Cards appear in individual rows on smaller screens */
+  .custom-card {
+    margin-bottom: 20px;
+  }
+
+  .patterns-container {
+    display: block; /* Make patterns container stack vertically */
+  }
+
+  .pattern {
+    flex: 1 0 100%; /* 1 item per row */
+    margin-bottom: 20px;
+  }
+
+  /* Override the column settings to stack cards */
+  .col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

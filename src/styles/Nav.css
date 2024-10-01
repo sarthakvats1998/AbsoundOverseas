@@ -1,0 +1,123 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  max-height: 1000000px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #333;
+  background: #fff;
+  font: 16px/1.6 "Muli", sans-serif;
+  min-width: 320px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+}
+
+#header {
+  padding: 0px 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 9999;
+  background: #fff;
+  box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s linear;
+}
+
+#header .navbar {
+  padding: 0;
+  justify-content: space-between;
+  background: none !important;
+}
+
+#header .navbar-collapse {
+  flex-grow: 0;
+}
+
+#header .navbar-collapse .navbar-nav {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+#header .navbar-collapse a:last-child {
+  padding-right: 10px;
+}
+
+#header .navbar-collapse a {
+  color: #4d4d4d;
+  position: relative;
+  padding: 5px 10px; /* Added padding for better spacing */
+}
+
+#header .navbar-collapse a:hover,
+#header .navbar-collapse a.active {
+  background: none;
+  color: #FECC13;
+}
+
+#header .navbar-collapse a:hover:before,
+#header .navbar-collapse a.active:before {
+  right: 0; /* Align to the end of the text */
+  left: 0; /* Align to the start of the text */
+  opacity: 1;
+}
+
+#header .navbar-collapse a:before {
+  content: '';
+  background: #FECC13;
+  height: 1px;
+  position: absolute;
+  bottom: 0; /* Positioned at the bottom */
+  left: 0;
+  right: 100%;
+  transition: all 0.3s linear;
+  opacity: 0;
+}
+
+/* Styles for the Navbar Toggle (Hamburger Icon) */
+#header .navbar-toggler {
+  border: none; /* Remove border */
+  background: transparent; /* Make background transparent */
+}
+
+#header .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3e%3cpath stroke='currentColor' stroke-width='2' d='M4 6h16M4 12h16M4 18h16'/%3e%3c/svg%3e");
+  /* Default hamburger icon */
+}
+
+#header .navbar-toggler {
+  color: #333; /* Set a visible color for the icon */
+}
+
+#header .navbar-toggler:hover {
+  color: #FECC13; /* Change color on hover for better visibility */
+}
+
+/* Responsive adjustments */
+@media (max-width: 991.98px) {
+  #header .navbar-collapse {
+    text-align: center;
+  }
+
+  #header .navbar-nav {
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  #header .navbar-collapse {
+    font-size: 16px;
+  }
+}
