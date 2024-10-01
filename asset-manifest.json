@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AbsoundOverseas/static/css/main.52cef339.css",
-    "main.js": "/AbsoundOverseas/static/js/main.f3fa832e.js",
+    "main.css": "/AbsoundOverseas/static/css/main.376ec857.css",
+    "main.js": "/AbsoundOverseas/static/js/main.2e926b5e.js",
     "static/js/453.a5e98a63.chunk.js": "/AbsoundOverseas/static/js/453.a5e98a63.chunk.js",
     "static/media/metalCeiling.jpg": "/AbsoundOverseas/static/media/metalCeiling.053895af40bea88d5981.jpg",
     "static/media/map.jpg": "/AbsoundOverseas/static/media/map.e77685025ff969eb477c.jpg",
@@ -11,7 +11,6 @@
     "static/media/prod1.jpeg": "/AbsoundOverseas/static/media/prod1.77965e8781fa77a6f946.jpeg",
     "static/media/prod2.jpeg": "/AbsoundOverseas/static/media/prod2.3060c0fef015fc48b757.jpeg",
     "static/media/cyclorama.png": "/AbsoundOverseas/static/media/cyclorama.cb75540a5827f6801610.png",
-    "static/media/woodenFlooring.png": "/AbsoundOverseas/static/media/woodenFlooring.9d3208d08acb81e02c2c.png",
     "static/media/carousel1.jpeg": "/AbsoundOverseas/static/media/carousel1.a5755c0f315e1b0264ed.jpeg",
     "static/media/audi1.jpg": "/AbsoundOverseas/static/media/audi1.e45a71a2763c514eecaf.jpg",
     "static/media/prod3.jpeg": "/AbsoundOverseas/static/media/prod3.435691821c816ffb4113.jpeg",
@@ -31,6 +30,7 @@
     "static/media/door3.jpeg": "/AbsoundOverseas/static/media/door3.9aeaf8a7f3b1f699f126.jpeg",
     "static/media/carousel3.jpeg": "/AbsoundOverseas/static/media/carousel3.67a9d8c61190557768a4.jpeg",
     "static/media/audi3.jpeg": "/AbsoundOverseas/static/media/audi3.70bbd16604a056eceaa4.jpeg",
+    "static/media/curtain2.jpg": "/AbsoundOverseas/static/media/curtain2.dff0c5476320e132d130.jpg",
     "static/media/section.jpg": "/AbsoundOverseas/static/media/section.ed71079c739ca286beda.jpg",
     "static/media/clipInTile3.png": "/AbsoundOverseas/static/media/clipInTile3.687cff45574d02e0f78b.png",
     "static/media/prod2.jpg": "/AbsoundOverseas/static/media/prod2.81ee8a0bd66c1cb4aae4.jpg",
@@ -162,12 +162,12 @@
     "static/media/slick.ttf": "/AbsoundOverseas/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/AbsoundOverseas/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AbsoundOverseas/index.html",
-    "main.52cef339.css.map": "/AbsoundOverseas/static/css/main.52cef339.css.map",
-    "main.f3fa832e.js.map": "/AbsoundOverseas/static/js/main.f3fa832e.js.map",
+    "main.376ec857.css.map": "/AbsoundOverseas/static/css/main.376ec857.css.map",
+    "main.2e926b5e.js.map": "/AbsoundOverseas/static/js/main.2e926b5e.js.map",
     "453.a5e98a63.chunk.js.map": "/AbsoundOverseas/static/js/453.a5e98a63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52cef339.css",
-    "static/js/main.f3fa832e.js"
+    "static/css/main.376ec857.css",
+    "static/js/main.2e926b5e.js"
   ]
 }
