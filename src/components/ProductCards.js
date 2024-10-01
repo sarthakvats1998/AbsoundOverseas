@@ -145,7 +145,7 @@ function ProductCards(props) {
                                 Designed for both functionality and aesthetics, they provide excellent acoustic properties while enhancing the visual appeal of any space. All our products are engineered with precision and distinguished by their exceptional quality. 
                                 </p>
                                 <div className='button-group'>
-                                    <Link to="/acousticDoors"><Button className='explore-button'>Explore</Button></Link>
+                                    <Link to="/metalCeilings"><Button className='explore-button'>Explore</Button></Link>
                                 </div>
                             </Card.Text>
                         </Col>
