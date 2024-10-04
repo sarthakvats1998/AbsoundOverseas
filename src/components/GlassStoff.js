@@ -143,7 +143,7 @@ function GlassStoff() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Upto 1.00</div>
+                                    <div className="spec-content">NRC Of 1.00</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>

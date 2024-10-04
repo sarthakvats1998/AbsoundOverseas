@@ -133,7 +133,7 @@ function StoffPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Upto 0.95</div>
+                                    <div className="spec-content">NRC Of 0.95</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>

@@ -8,9 +8,10 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import '../styles/SlatedPanel.css';
 
-import audi1 from '../assets/glassStoff/audi1.jpg';
-import audi2 from '../assets/stoffPanel/audi2.jpeg';
-import audi3 from '../assets/audi6.jpeg';
+import audi1 from '../assets/calciLite/audi1.jpg';
+import audi2 from '../assets/calciLite/audi2.jpg';
+import audi3 from '../assets/calciLite/audi3.jpg';
+import audi4 from '../assets/calciLite/audi4.jpg';
 import prod1 from '../assets/calciLite/prod1.jpg';
 import prod2 from '../assets/calciLite/prod2.jpg';
 import prod3 from '../assets/calciLite/prod4.jpg';
@@ -106,7 +107,7 @@ function CalciLite() {
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Sizes</div>
-                                    <div className="spec-content">595 X 595 mm, 610 X 610 mm</div>
+                                    <div className="spec-content">595 X 595 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
@@ -124,7 +125,7 @@ function CalciLite() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Upto 0.50</div>
+                                    <div className="spec-content">NRC Of 0.50 - 0.70</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
@@ -169,7 +170,6 @@ function CalciLite() {
             </div>
             <div className='bullet'>
                 <ul>
-                    <li>Excellent acoustics with transmission class between 39 - 56 dB.</li><br/>
                     <li>Light weight.</li><br/>
                     <li>Excellent thermal insulation properties.</li><br/>
                     <li>Water resistant. Can withstand 99% relative humidity</li><br/>
@@ -189,10 +189,6 @@ function CalciLite() {
                     <img src={prod6} alt="Colour 2" />
                     <p>SQUARE HOLE PERFORATED</p>
                 </div>
-                <div className="pattern">
-                    <img src={prod7} alt="Colour 4" />
-                    <p>TINY HOLE PERFORATED</p>
-                </div>
             </div>
             <br/><br/>
 
@@ -206,7 +202,7 @@ function CalciLite() {
             <img className="carousel-image" src={audi2} alt="Slide 1" />
             </div>
             <div>
-            <img className="carousel-image" src={audi1} alt="Slide 2" />
+            <img className="carousel-image" src={audi4} alt="Slide 2" />
             </div>
             <div>
             <img className="carousel-image" src={audi3} alt="Slide 3" />

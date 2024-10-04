@@ -142,7 +142,7 @@ function PetPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Upto 0.80</div>
+                                    <div className="spec-content">NRC Of 0.80</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>

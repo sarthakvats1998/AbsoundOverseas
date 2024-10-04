@@ -58,7 +58,7 @@ const products = [
     id: 6,
     title: "CalciLite Ceiling Tile",
     density: "100 - 120 Kg/m³",
-    nrc: [0.90],
+    nrc: [0.70],
     link: '/acousticCeilings/calciLite',
     image: prod6
   },
