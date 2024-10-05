@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AbsoundOverseas/static/css/main.376ec857.css",
-    "main.js": "/AbsoundOverseas/static/js/main.c5d35ddf.js",
+    "main.js": "/AbsoundOverseas/static/js/main.62f3bbd9.js",
     "static/js/453.a5e98a63.chunk.js": "/AbsoundOverseas/static/js/453.a5e98a63.chunk.js",
     "static/media/metalCeiling.jpg": "/AbsoundOverseas/static/media/metalCeiling.053895af40bea88d5981.jpg",
     "static/media/map.jpg": "/AbsoundOverseas/static/media/map.e77685025ff969eb477c.jpg",
@@ -163,11 +163,11 @@
     "static/media/slick.woff": "/AbsoundOverseas/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AbsoundOverseas/index.html",
     "main.376ec857.css.map": "/AbsoundOverseas/static/css/main.376ec857.css.map",
-    "main.c5d35ddf.js.map": "/AbsoundOverseas/static/js/main.c5d35ddf.js.map",
+    "main.62f3bbd9.js.map": "/AbsoundOverseas/static/js/main.62f3bbd9.js.map",
     "453.a5e98a63.chunk.js.map": "/AbsoundOverseas/static/js/453.a5e98a63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.376ec857.css",
-    "static/js/main.c5d35ddf.js"
+    "static/js/main.62f3bbd9.js"
   ]
 }
