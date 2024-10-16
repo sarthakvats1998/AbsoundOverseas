@@ -104,8 +104,7 @@ function PetPanel() {
                 <ul>
                     <li>Absound PET Panels are the ideal decorative wall and ceiling treatment for areas where sound and noise control are a consideration.</li><br/>
                     <li>The panels are made from 100% polyester and are 100% recyclable</li><br/>
-                    <li>Absound PET Panels are the ideal decorative wall and ceiling treatment for areas where sound and noise control are considerations. 
-                        Absound decorative and acoustical panels are suitable for almost every application, including use in auditoriums, conference areas, libraries, schools, public buildings, or any space where acoustics, aesthetics, and value are important.</li><br/>
+                    <li>Absound decorative and acoustical panels are suitable for nearly any application, including auditoriums, conference areas, libraries, schools, public buildings, or any space where both acoustic and aesthetic values are important.</li><br/>
                     <li>Our PET Panels come with a 5-year warranty.</li><br/><br/>
                 </ul>
             </div>

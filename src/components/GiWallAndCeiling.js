@@ -185,7 +185,7 @@ function GiWallAndCeiling() {
                 <div className='bullet'>
                     <ul>
                         <li>GI wall sections mainly include stud and floor channels, which form the skeleton of the wall, onto which finishing materials are fixed.</li><br/>
-                        <li>They are lightweight, durable, and commonly used in commercial and residential construction for non-load-bearing walls.</li><br/><br/>
+                        <li>These are lightweight, durable, and commonly used in commercial and residential construction for non-load-bearing walls.</li><br/><br/>
                     </ul>
                 </div>
     

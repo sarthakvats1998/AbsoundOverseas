@@ -83,7 +83,7 @@ function WoodWoolPanel() {
                 <ul>
                     <li>Absound Fabril Wood Wool Panels are multipurpose lightweight acoustic and insulation boards manufactured from selected excelsior wood fibers (wood wool) mineralized with magnesite and hydraulically compressed into boards.</li><br/>
                     <li>Our natural panels are extensively used materials in roof insulation, false ceilings, wall paneling, partitions, and flooring, providing both thermal and acoustic insulation.</li><br/>
-                    <li>The raw materials, wood fibers, and magnesite give the Wood Wool Panels their natural white color, although they can also be spray-painted in other colors.</li><br/>
+                    <li>The raw materials—wood fibers and magnesite—give the Wood Wool Panels their natural white color, although these can also be spray-painted in other colors.</li><br/>
                     <li>Our natural panels are available in 5 densities and 10 thicknesses, starting from 6 mm, which is the thinnest wood wool insulation slab.</li><br/>
                     <li>These panels are extensively used for acoustical wall panels in auditoriums, multiplexes, cinema theaters, studios, conference rooms, etc. Non-woven fabric is adhered to one side of the Wood Wool Panels. 
                         One can also paste or stretch designer fabric on these panels on-site to achieve specific designs and patterns.</li><br/>
@@ -187,7 +187,7 @@ function WoodWoolPanel() {
                     <li>High sound absorption frequency, good effect on absorbing low, middle and high frequency noises with an NRC upto 0.95.</li><br/>
                     <li>B1 grade fire-proofing and E1 grade Enviromental protection.</li><br/>
                     <li>Inflammable, decorative and easy to install, unpolluted by dust.</li><br/>
-                    <li>Various kinds of facings and colors for your choice, cloth can be supplied by customers.</li><br/><br/>
+                    <li>Various kinds of facings and colors of your choice, cloth can be supplied by customers.</li><br/><br/>
                 </ul>
             </div>
 

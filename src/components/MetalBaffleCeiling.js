@@ -43,7 +43,7 @@ function MetalBaffleCeiling() {
             <div className='bullet'>
                 <ul>
                     <li>Our Metal Baffle Ceiling comes in G.I. and aluminium.</li><br/>
-                    <li>Baffles that mount up in the ceiling are one of the most effective methods to reduce reverberation and noice because both the sides of the baffle are exposed to the room.</li><br/><br/>
+                    <li>Baffles that mount up in the ceiling are one of the most effective methods to reduce reverberation and noise because both the sides of the baffle are exposed to the room.</li><br/><br/>
                 </ul>
             </div>
 

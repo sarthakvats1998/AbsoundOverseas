@@ -9,7 +9,7 @@ function CompanyFooter(props) {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-column">
-            <h3>Company</h3>
+            <h3>Our Organisation</h3>
             <ul className='footer-font'>
               <li><Link to="/">Home</Link></li>
               <li><Link to="/about">About Us</Link></li>
@@ -20,7 +20,7 @@ function CompanyFooter(props) {
             <h3>Products</h3>
             <ul className='footer-font'>
               <li><Link to="/wallPanels">Wall Panels</Link></li>
-              <li><Link to="/acousticCeilings">Acoustic Ceiling</Link></li>
+              <li><Link to="/acousticCeilings">Acoustic Ceilings</Link></li>
               <li><Link to="/metalCeilings">Metal Ceilings</Link></li>
               <li><Link to="/seatingSystems">Seating Systems</Link></li>
               <li><Link to="/acousticDoors">Acoustic Doors</Link></li>

@@ -178,7 +178,7 @@ function GypsumBoard() {
                 <ul>
                     <li>Perforating type : circle hole</li><br/>
                     <li>Size 2440 * 1220 * 12.5 mm, 610 * 610 * 12.5 mm, 1220 * 610 * 12.5 mm, other on request</li><br/>
-                    <li>Color of non-woven fabric: white, black, blue, and custom colours also available</li><br/>
+                    <li>Colors of non-woven fabric: white, black, blue, and custom colors are also available</li><br/>
                     <li>Perforation rate: 8.7% - 19.6%</li><br/>
                     <li>NRC rate: 0.7</li><br/>
                     <li>RH70</li><br/><br/>

@@ -97,8 +97,8 @@ function Door() {
             <div className='bullet'>
                 <ul>
                     <li>We develop acoustic doors, tested in the accredited laboratory, equipped with compression seals around the periphery of the doors.</li><br/>
-                    <li>Standard doors have an acoustic rating up to STC 45. Many of the doors in the range also meet fire specification. Fire doors are tested to BS 476 - Part 22:1987 with fire rating up to two hours for stability and integrity. An intumescent strip is used for fire rating doors.</li><br/>
-                    <li>The door ranges incorporate the latest acoustic technology and optimum in engineering design with high quality standard and optional fittings, e.g. Handles, locks, closers, etc. are available to meet individual customer requirements.</li><br/><br/>
+                    <li>Standard doors have an acoustic rating up to STC 45. Many of the doors in the range also meet fire specification. Fire doors are tested to BS 476 - Part 22:1987 for stability and integrity. An intumescent strip is used for fire rating doors.</li><br/>
+                    <li>Our door range has been incorporated with the latest acoustic technology and optimal engineering design, meeting high-quality standards. Optional fittings, such as handles, locks, and closers, are available to meet individual customer requirements.</li><br/><br/>
                 </ul>
             </div>
 
