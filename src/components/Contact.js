@@ -36,7 +36,7 @@ function Contact(props) {
               <Col>
                 <div className="contact-item">
                   <FontAwesomeIcon icon={faMapMarkerAlt} className="contact-icon" />
-                  <p>RZ-17, 1st Floor,</p><p>Main Najafgarh Road Metro Pillar No. 715,</p><p>New Delhi, Delhi 110059</p>
+                  <p>RZ-17, Uttam Nagar,</p><p>Main Najafgarh Road Metro Pillar No. 715,</p><p>New Delhi, Delhi 110059</p>
                 </div>
               </Col>
             </Row>

@@ -7,7 +7,7 @@ import emailjs from 'emailjs-com';
 import '../styles/ContactUs.css';
 
 function ContactUs(props) {
-    const phoneNumber = '919711993973'; // WhatsApp number
+    const phoneNumber = '919810183616'; // WhatsApp number
     const pdfDownloadLink = "https://drive.google.com/file/d/1VZGV0TfWClzs_LqJ4RSSQC6TL6HxTgxT/view?usp=drive_link"; // Google Drive direct download link
 
     const [formData, setFormData] = useState({

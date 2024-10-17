@@ -36,7 +36,7 @@ function CompanyFooter(props) {
           <div className="footer-column">
             <img src={logo} alt="Logo" />
             <p className='footer-font address'>
-              RZ-17<br/>
+              RZ-17, Uttam Nagar,<br/>
               Main Najafgarh Road,<br/>
               Metro Pillar No. 715,<br/>
               New Delhi, Delhi 110059

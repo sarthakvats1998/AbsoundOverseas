@@ -5,7 +5,7 @@ import { faFacebookF, faLinkedinIn, faWhatsapp } from '@fortawesome/free-brands-
 import { faEnvelope, faDownload } from '@fortawesome/free-solid-svg-icons';
 
 function FooterCopyright(props) {
-    const phoneNumber = '919711993973'; //WhatsApp phone number
+    const phoneNumber = '919810183616'; //WhatsApp phone number
     const pdfDownloadLink = "https://drive.google.com/file/d/1VZGV0TfWClzs_LqJ4RSSQC6TL6HxTgxT/view?usp=drive_link"; // Google Drive direct download link
 
     return (
