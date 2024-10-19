@@ -32,7 +32,7 @@ function ProductCards(props) {
                             <Card.Title className="display-4 font-weight-bold"><p>Wall Panels</p></Card.Title>
                             <Card.Text className="lead">
                                 <p style={{fontSize:'18px'}}>
-                                    Absound Overseas offers best-in-class wall panels with excellent acoustic absorption for public and private spaces, auditoriums, theaters, hotels, offices, etc. 
+                                    Absound Overseas offers best-in-class wall panels with excellent acoustic absorption for public and private spaces, auditoriums, theaters, hotels, hospitals, offices, etc. 
                                 </p>
                                 <div className='button-group'>
                                     <Link to="/wallPanels"><Button className='explore-button'>Explore</Button></Link>
