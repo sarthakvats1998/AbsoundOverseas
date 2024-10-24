@@ -99,20 +99,18 @@ function stretchFabricPanel() {
                         <Card className="custom-card">
                             <Card.Body>
                                 <Card.Text>
-                                    <div className="spec-title">Thickness</div>
-                                    <div className="spec-content">12 mm, 15 mm, 18 mm</div>
+                                    <div className="spec-title">Thickness (Track)</div>
+                                    <div className="spec-content">12 mm, 15 mm, 18 mm, 25 mm</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Size</div>
-                                    <div className="spec-content">2440 x 128 mm</div>
+                                    <div className="spec-content">Custom</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
-                                    <div className="spec-title">Density</div>
-                                    <div className="spec-content">750 Kg/m<sup>3</sup></div>
-                                </Card.Text>
-                                <Card.Text>
-                                    <div className="spec-title">Weight</div>
-                                    <div className="spec-content">12 Kg/m<sup>2</sup></div>
+                                    <div className="spec-title">Light (%)</div>
+                                    <div className="spec-content">Depends on the shade of the fabric</div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -122,19 +120,18 @@ function stretchFabricPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Of 0.75</div>
+                                    <div className="spec-content">NRC Of 0.85 - 0.90</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
-                                    <div className="spec-content">Class 1 & P</div>
+                                    <div className="spec-content">BS EN 1021 - 1: 1994</div>
+                                    <div className="spec-content">BS 7176: 1995</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
-                                    <div className="spec-title">Light (%)</div>
-                                    <div className="spec-content">75%</div>
-                                </Card.Text>
-                                <Card.Text>
-                                    <div className="spec-title">Climate</div>
-                                    <div className="spec-content">OC 50, RH 70</div>
+                                    <div className="spec-title">Core</div>
+                                    <div className="spec-content">Stretch Fabric</div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -143,20 +140,18 @@ function stretchFabricPanel() {
                         <Card className="custom-card">
                             <Card.Body>
                                 <Card.Text>
-                                    <div className="spec-title">Core</div>
-                                    <div className="spec-content">Medium Density Fibreboard (MDF)</div>
-                                </Card.Text>
-                                <Card.Text>
                                     <div className="spec-title">Edge</div>
-                                    <div className="spec-content">Tounge & Groove</div>
+                                    <div className="spec-content">Square</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Installation</div>
-                                    <div className="spec-content">18 mm GI or Almn. Channel</div>
+                                    <div className="spec-content">UPVC Track / Gripper</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Maintenance</div>
-                                    <div className="spec-content">Wet Wipe, Dry Wipe</div>
+                                    <div className="spec-content">Vaccum Cleaner</div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>

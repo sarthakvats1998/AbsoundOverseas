@@ -145,7 +145,7 @@ function AbsoftTile() {
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Edge</div>
-                                    <div className="spec-content">Square, Stepe</div>
+                                    <div className="spec-content">Square, Tegular</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Installation</div>

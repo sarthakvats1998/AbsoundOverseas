@@ -97,9 +97,10 @@ function SlatedPanel() {
             </div>
             <div className='bullet'>
                 <ul>
-                    <li>Absound Slated Wooden Acoustic Panels have longitudinal grooves and slats machined along the length of the panel. 
-                        These panels consist of a laminate finished surface, a base core board, and black acoustic felt attached to the back.</li><br/>
-                    <li>The base core board is a 15mm or 18mm thick Medium Density Fiberboard (MDF) sheet with a finish laminated to its front face and black acoustic felt adhered to its rear face.</li><br/>
+                    <li>Absound Slated Wooden Acoustic Panel have longitudinal grooves and slats, machined along the length of the panel. 
+                        These panels are consist of a laminate finished surface, base core board and black acoustic felt attached on the back.</li><br/>
+                    <li>The base core board is a 16mm, 17mm, or 18mm thick Medium Density Fiberboard / High Density Fiberboard with a laminated finish to its front face and black acoustic felt adhered to its rear face.</li><br/>
+                    <li>Acoustic Panels are manufactured with Tongue and Groove edge to achieve perfect finish when they are installed. This decorative acoustic panel is homogenous wood fibre product with a superfine finish. It cuts, drills and routs easily without chipping or splintering.</li><br/>
                     <li>Absound Slated Wooden Acoustic Panels are suitable for almost every application, including use in auditoriums, theatres, convention centres, conference rooms, hospitals, schools, 
                         studios, offices, and commercial buildings, or any area where acoustics and aesthetics are a consideration.</li><br/>
                     <li>Our Slated Wooden Acoustic Panels come with a 5-year warranty.</li><br/><br/>
@@ -116,19 +117,19 @@ function SlatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Thickness</div>
-                                    <div className="spec-content">12 mm, 15 mm, 18 mm</div>
+                                    <div className="spec-content">16 mm, 17 mm, 18 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Size</div>
-                                    <div className="spec-content">2440 x 128 mm</div>
+                                    <div className="spec-content">2440 x 128 / 192 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
-                                    <div className="spec-content">750 Kg/m<sup>3</sup></div>
+                                    <div className="spec-content">750 - 800 Kg/m<sup>3</sup></div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Weight</div>
-                                    <div className="spec-content">12 Kg/m<sup>2</sup></div>
+                                    <div className="spec-content">12 - 14 Kg/m<sup>2</sup></div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -138,7 +139,7 @@ function SlatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Of 0.75</div>
+                                    <div className="spec-content">NRC Of 0.83</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
@@ -160,7 +161,7 @@ function SlatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Core</div>
-                                    <div className="spec-content">Medium Density Fibreboard (MDF)</div>
+                                    <div className="spec-content">Medium / High Density Fibreboard (MDF, HDF)</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Edge</div>

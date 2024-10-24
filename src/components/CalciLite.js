@@ -111,7 +111,7 @@ function CalciLite() {
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
-                                    <div className="spec-content">900 Kg/m<sup>3</sup></div>
+                                    <div className="spec-content">350 - 450 Kg/m<sup>3</sup></div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Weight</div>

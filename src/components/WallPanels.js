@@ -36,24 +36,24 @@ const products = [
   {
     id: 3,
     title: "Slated Wooden Acoustic Panel",
-    density: "750 Kg/m³",
-    nrc: [0.75],
+    density: "750 - 800 Kg/m³",
+    nrc: [0.83],
     link: '/wallPanels/slatedPanel',
     image: prod3
   },
   {
     id: 4,
     title: "Perforated Wooden Acoustic Panel",
-    density: "750 Kg/m³",
-    nrc: [0.75],
+    density: "750 - 800 Kg/m³",
+    nrc: ["0.6 - 0.83"],
     link: '/wallPanels/perforatedPanel',
     image: prod4
   },
   {
     id: 5,
     title: "Perforated Wooden Slit Panel",
-    density: "750 Kg/m³",
-    nrc: [0.75],
+    density: "750 - 800 Kg/m³",
+    nrc: ["0.83"],
     link: '/wallPanels/slitPanel',
     image: prod5
   },

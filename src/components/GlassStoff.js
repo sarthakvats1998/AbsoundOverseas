@@ -164,21 +164,6 @@ function GlassStoff() {
                         <Card className="custom-card">
                             <Card.Body>
                                 <Card.Text>
-                                    <div className="spec-title">Sizes</div>
-                                    <br/>
-                                    <div className="spec-content">L-600mm × W-600mm × Th-25mm</div><br/>
-                                    <br/>
-                                    <div className="spec-content">L-1200mm × W-600mm × Th-25mm</div><br/>
-                                    <br/>
-                                    <div className="spec-content">Also available in custom sizes</div>
-                                </Card.Text>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <Card className="custom-card">
-                            <Card.Body>
-                                <Card.Text>
                                     <div className="spec-title">Panel Shapes</div>
                                     <div className="spec-content">Square Edge, Beveled Edge</div>
                                 </Card.Text>

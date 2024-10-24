@@ -144,22 +144,8 @@ function WoodWoolPanel() {
                         <Card className="custom-card">
                             <Card.Body>
                                 <Card.Text>
-                                    <div className="spec-title">Sizes</div>
-                                    <div className="spec-content">L-600mm × W-600mm × Th-20mm</div><br/>
-                                    <div className="spec-content">L-1200mm × W-600mm × Th-20mm</div><br/>
-                                    <div className="spec-content">L-600mm × W-600mm × Th-25mm</div><br/>
-                                    <div className="spec-content">L-1200mm × W-600mm × Th-25mm</div><br/>
-                                    <div className="spec-content">Also available in custom sizes</div>
-                                </Card.Text>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <Card className="custom-card">
-                            <Card.Body>
-                                <Card.Text>
                                     <div className="spec-title">Surface</div>
-                                    <div className="spec-content">Raw, Fabric, Vinyl clothing or custom</div>
+                                    <div className="spec-content">Raw / Painted</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Material</div>

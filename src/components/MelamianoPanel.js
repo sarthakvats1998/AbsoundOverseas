@@ -192,8 +192,8 @@ function MelamianoPanel() {
             <div className='bullet'>
                 <ul>
                     <li>White</li>
-                    <li>Black</li>
                     <li>Grey</li>
+                    <li>Fabric Finished</li>
                 </ul>
             </div>
 

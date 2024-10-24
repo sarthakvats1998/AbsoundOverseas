@@ -143,7 +143,7 @@ function GypsumBoard() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Perforation</div>
-                                    <div className="spec-content">12 x 12 mm, 6 x 6mm, 3 x 3mm</div>
+                                    <div className="spec-content">12 x 12 mm, 6 x 6 mm, 3 x 3 mm</div>
                                 </Card.Text>
                                 <br/>
                                 <Card.Text>

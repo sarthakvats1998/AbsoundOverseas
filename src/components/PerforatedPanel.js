@@ -99,8 +99,7 @@ function PerforatedPanel() {
             <div className='bullet'>
                 <ul>
                     <li>Absound Perforated Acoustic Panels have circular holes machined over the face of the panel.</li><br/>
-                    <li>These panels consist of a laminate finished surface, a base core board, and black acoustic felt attached to the back.</li><br/>
-                    <li>The base core board is a 15mm or 18mm thick Medium Density Fiberboard (MDF) sheet with a finish laminated to its front face and black acoustic felt adhered to its rear face.</li><br/>
+                    <li>The base core board is a 12 mm, 15 mm, 16 mm, or 18 mm thick Medium / High Density Fiberboard (MDF, HDF) sheet with laminated finish to its front face and black acoustic felt adhered to its rear face.</li><br/>
                     <li>Absound Perforated Acoustic Panels are suitable for almost every application, including use in auditorims, lecture rooms, multiplexes, conference rooms, hotels, worship spaces, offices, airports, studios, and home theatres.</li><br/>
                     <li>Our Absound Perforated Acoustic Panels come with a 5-year warranty.</li><br/><br/>
                 </ul>
@@ -116,7 +115,7 @@ function PerforatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Thickness</div>
-                                    <div className="spec-content">12 mm, 15 mm, 18 mm</div>
+                                    <div className="spec-content">12 mm, 15 mm, 16 mm, 18 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Sizes</div>
@@ -124,11 +123,11 @@ function PerforatedPanel() {
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
-                                    <div className="spec-content">750 Kg/m<sup>3</sup></div>
+                                    <div className="spec-content">750 - 800 Kg/m<sup>3</sup></div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Weight</div>
-                                    <div className="spec-content">12 Kg/m<sup>2</sup></div>
+                                    <div className="spec-content">12 - 14 Kg/m<sup>2</sup></div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -138,7 +137,7 @@ function PerforatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Of 0.75</div>
+                                    <div className="spec-content">NRC Of 0.6 - 0.83</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
@@ -160,11 +159,11 @@ function PerforatedPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Core</div>
-                                    <div className="spec-content">Medium Density Fibreboard (MDF)</div>
+                                    <div className="spec-content">Medium / High Density Fibreboard (MDF, HDF)</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Edge</div>
-                                    <div className="spec-content">Sqaure, Tounge & Groove</div>
+                                    <div className="spec-content">Sqaure, Tegular, Tounge & Groove</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Installation</div>

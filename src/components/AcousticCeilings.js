@@ -25,16 +25,16 @@ const products = [
   {
     id: 2,
     title: "Perforated Wooden Acoustic Panel",
-    density: "750 Kg/m³",
-    nrc: [0.75],
+    density: "750 - 800 Kg/m³",
+    nrc: ["0.6 - 0.83"],
     link: '/acousticCeilings/perforatedPanel',
     image: prod2
   },
   {
     id: 3,
-    title: "Perforated Wooden Slit Panel",
-    density: "750 Kg/m³",
-    nrc: [0.75],
+    title: "Wooden Slit Acoustic Panel",
+    density: "750 - 800 Kg/m³",
+    nrc: [0.83],
     link: '/acousticCeilings/slitPanel',
     image: prod3
   },
@@ -57,7 +57,7 @@ const products = [
   {
     id: 6,
     title: "CalciLite Ceiling Tile",
-    density: "100 - 120 Kg/m³",
+    density: "350 - 450 Kg/m³",
     nrc: [0.70],
     link: '/acousticCeilings/calciLite',
     image: prod6

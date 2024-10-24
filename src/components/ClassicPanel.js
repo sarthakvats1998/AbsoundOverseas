@@ -69,7 +69,7 @@ function ClassicPanel() {
                 <Carousel.Caption className="carousel-caption d-flex flex-column justify-content-end h-100">
                 <div className='container product-name'>
                     <h1>	
-                        Perforated Wooden Slit Panel
+                        Wooden Slit Acoustic Panel
                     </h1>
                 </div>
                 </Carousel.Caption>
@@ -97,11 +97,11 @@ function ClassicPanel() {
             </div>
             <div className='bullet'>
                 <ul>
-                    <li>Absound Classic Acoustic Panels answer your aesthetic and acoustical needs with their strong sound-absorbing performance, durability, and elegant appearance.</li><br/>
+                    <li>Absound Wooden Slit Acoustic Panels answer your aesthetic and acoustical needs through its rectangular perforations with their strong sound-absorbing performance, durability, and elegant appearance.</li><br/>
                     <li>The panels consist of a laminate finished surface, a base core board, and black acoustic felt attached to the back.</li><br/>
-                    <li>Absound Classic Acoustical Panels are the ideal decorative wall and ceiling treatment for areas where sound and noise control are a consideration. 
+                    <li>Absound Wooden Slit Acoustic Panels are the ideal decorative wall and ceiling treatment for areas where sound and noise control are a consideration. 
                         They are suitable for almost every application, including use in auditoriums, theatres, convention centres, conference rooms, hospitals, schools, studios, offices, and commercial buildings, or any area where acoustics, aesthetics, and value are a consideration.</li><br/>
-                    <li>Our Absound Classic Acoustic Panels come with a 5-year warranty.</li><br/><br/>
+                    <li>Our Absound Wooden Slit Acoustic Panels come with a 5-year warranty.</li><br/><br/>
                 </ul>
             </div>
 
@@ -115,19 +115,19 @@ function ClassicPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Thickness</div>
-                                    <div className="spec-content">12 mm, 15 mm, 18 mm</div>
+                                    <div className="spec-content">12 mm, 15 mm, 16mm, 18 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Sizes</div>
-                                    <div className="spec-content">600 x 1200 mm, 600 x 1200 mm, 1200 x 2400 mm</div>
+                                    <div className="spec-content">600 x 600 mm, 600 x 1200 mm, 1200 x 1200 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
-                                    <div className="spec-content">750 Kg/m<sup>3</sup></div>
+                                    <div className="spec-content">750 - 800 Kg/m<sup>3</sup></div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Weight</div>
-                                    <div className="spec-content">12 Kg/m<sup>2</sup></div>
+                                    <div className="spec-content">12 - 14 Kg/m<sup>2</sup></div>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -137,7 +137,7 @@ function ClassicPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Of 0.75</div>
+                                    <div className="spec-content">NRC Of 0.83</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
@@ -159,11 +159,11 @@ function ClassicPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Core</div>
-                                    <div className="spec-content">Medium Density Fibreboard (MDF), Plywood</div>
+                                    <div className="spec-content">Medium / High Density Fibreboard (MDF, HDF)</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Edge</div>
-                                    <div className="spec-content">Square, Tounge & Groove</div>
+                                    <div className="spec-content">Square, Tegular, Tounge & Groove</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Installation</div>

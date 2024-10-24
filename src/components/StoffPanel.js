@@ -115,7 +115,7 @@ function StoffPanel() {
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Sizes</div>
-                                    <div className="spec-content">600 x 600 mm, 1200 x 600 mm</div>
+                                    <div className="spec-content">600 x 600 mm, 1200 x 600 mm, 2440 X 1220 mm</div>
                                 </Card.Text>
                                 <Card.Text>
                                     <div className="spec-title">Density</div>
@@ -133,48 +133,34 @@ function StoffPanel() {
                             <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Acoustics</div>
-                                    <div className="spec-content">NRC Of 0.95</div>
+                                    <div className="spec-content">NRC Of 1.0</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Fire</div>
                                     <div className="spec-content">Class A</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Light (%)</div>
                                     <div className="spec-content">Colours Dependent</div>
                                 </Card.Text>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                    <Col>
+                        <Card className="custom-card">
+                            <Card.Body>
                                 <Card.Text>
                                     <div className="spec-title">Climate</div>
                                     <div className="spec-content">OC 50, RH 70</div>
                                 </Card.Text>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <Card className="custom-card">
-                            <Card.Body>
-                                <Card.Text>
-                                    <div className="spec-title">Sizes</div>
-                                    <div className="spec-content">L-600mm × W-600mm × Th-20mm</div><br/>
-                                    <div className="spec-content">L-1200mm × W-600mm × Th-20mm</div><br/>
-                                    <div className="spec-content">L-600mm × W-600mm × Th-25mm</div><br/>
-                                    <div className="spec-content">L-1200mm × W-600mm × Th-25mm</div><br/>
-                                    <div className="spec-content">Also available in custom sizes</div>
-                                </Card.Text>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <Card className="custom-card">
-                            <Card.Body>
-                                <Card.Text>
-                                    <div className="spec-title">Panel Shapes</div>
-                                    <div className="spec-content">Square Edge, Beveled Edge,<br/>Half Beveled Edge, and Round Edge</div>
-                                </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Installation</div>
                                     <div className="spec-content">Spline-H, Studd 48 GI Channel</div>
                                 </Card.Text>
+                                <br/>
                                 <Card.Text>
                                     <div className="spec-title">Maintenance</div>
                                     <div className="spec-content">Vaccum, Brush</div>
